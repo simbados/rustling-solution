@@ -1,4 +1,9 @@
+*
+!*/
+!*.*
+
 *.swp
 target/
 **/*.rs.bk
 .DS_Store
+*.idea
